@@ -1,0 +1,13 @@
+# Dependencies and build output
+node_modules/
+.turbo/
+.next/
+out/
+
+# Local environment and OS metadata
+.env*
+!.env.example
+.DS_Store
+
+# Logs
+*.log
